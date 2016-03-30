@@ -5,7 +5,7 @@ describe('TownHall Invitation Test', function() {
 
     // fills in the sign in form fields
     element(by.model('user.email')).sendKeys('test1@test.com');
-    element(by.model('user.password')).sendKeys('test1');
+    element(by.model('user.password')).sendKeys('asdf');
 
     // clicks the sign in button
     element(by.id('signIn')).click();
@@ -56,7 +56,7 @@ describe('TownHall Invitation Test', function() {
 
     // fills in the sign in form fields
     element(by.model('user.email')).sendKeys('test2@test.com');
-    element(by.model('user.password')).sendKeys('test2');
+    element(by.model('user.password')).sendKeys('asdf');
 
     // clicks the sign in button
     element(by.id('signIn')).click();
