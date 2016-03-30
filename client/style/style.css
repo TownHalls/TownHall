@@ -109,6 +109,7 @@ body {
  float: right;
  padding-right: 2%;
  margin-top: -55px;
+ color: white;
 }
 
 .tool {
@@ -174,7 +175,7 @@ md-card-content {
 .landingPageHeader {
   text-align: center;
   color: white;
-  height: 500px;
+  height: 450px;
 }
 
 .landingPageLogo {
@@ -195,14 +196,14 @@ md-card-content {
   display: block;
   color: #fff;
   font-family: 'Damion', cursive;
-  font-size: 1.5em;
+  font-size: 1.85em;
   /*font-style: italic;*/
   margin-top: -15px;
   text-align: center;
 }
 
 .landingPageSigninSignupForm {
-  margin-top: 25px;
+  margin-top: 65px;
   margin-bottom: 50px;
 }
 
