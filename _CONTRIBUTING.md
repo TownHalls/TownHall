@@ -8,7 +8,6 @@
 
 ~~~~
 git clone https://github.com/**yourAcctName**/TownHall.git
-Add an upstream that points to the main repo
 ~~~~
 
 3) Add an upstream remote
