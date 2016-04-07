@@ -1,4 +1,4 @@
-var TownHall = angular.module('TownHall', ['firebase', 'ui.router', 'ngMaterial', 'xeditable', 'angularInlineEdit', 'dndLists', 'luegg.directives'])
+var TownHall = angular.module('TownHall', ['firebase', 'ui.router', 'ngMaterial', 'angularInlineEdit', 'dndLists', 'luegg.directives'])
 .config(function($stateProvider, $urlRouterProvider, $httpProvider) {
   $stateProvider
   .state('landing', {
